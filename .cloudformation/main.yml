@@ -11,15 +11,12 @@ Parameters:
   GitHubRepo:
     Type: String
     Description: GitHub repository name
-    Default: CodeBuildMaster
   GitHubUser:
     Type: String
     Description: GitHub user name
-    Default: MarcoBarbaro96
   GitHubOAuthToken:
     Type: String
     Description: GitHub auth token
-    Default: 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
 
 Resources:
   CodeBuildServiceRole:
