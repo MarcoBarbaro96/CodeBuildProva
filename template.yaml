@@ -6,7 +6,7 @@ Description: >
 Parameters:
   Environment:
     Type: String
-    Description: Environment name
+    Description: Master
 
 Globals:
   Function:
