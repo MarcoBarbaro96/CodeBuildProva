@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - sam build -t template.yml
+      - sam build -t template.yaml
 
   post_build:
     commands:
